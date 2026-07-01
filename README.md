@@ -38,8 +38,8 @@ AI_Chatbot/
 ## 🚀 Installation
 
 ### 1. Clone the Repository
-bas
-git clone https://github.com/Aleenashah965-hue/Gemini-AI-Chatbot.git
+bash
+https://github.com/Aleenashah965-hue/-Gemini-AI-Chatbot
 ### 2. Install Dependencies
 bash
 pip install -r requirements.txt
