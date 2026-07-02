@@ -35,6 +35,9 @@ AI_Chatbot/
 ├── README.md
 └── screenshots/
 
+## 🌐 Live Demo
+https://aleena-gemini-chatbot-965.streamlit.app/
+
 ## 🚀 Installation
 
 ### 1. Clone the Repository
